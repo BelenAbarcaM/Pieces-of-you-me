@@ -1,2 +1,26 @@
-# Pieces-of-you-me
-Pieces of You &amp; Me is a 2D platformer created as a personal anniversary project. The game features a custom character with movement mechanics, animations, jumping, collisions, and a camera system. Each level represents meaningful moments of a relationship, combining storytelling, exploration, and collectibles in a nostalgic platforming experience.
+# Pieces of You & Me 💜
+
+A 2D pixel art platformer created as a personal anniversary project.
+
+The game tells a story through different levels, where players explore environments, collect memories, and experience important moments represented through gameplay.
+
+## Current features
+
+✨ Player movement  
+✨ Idle, run and jump animations  
+✨ Sprite sheet animation system  
+✨ Gravity and jumping mechanics  
+✨ Platform collisions  
+✨ Camera following system  
+✨ Organized JavaScript structure  
+
+## Technologies
+
+- HTML5 Canvas
+- JavaScript
+- CSS
+- Pixel Art assets
+
+## Status
+
+🚧 In development
